@@ -12,3 +12,5 @@ To run this project you should follow this patterns:
           (a)npm install
           (b)npm run clientinstall
           (c)npm run dev
+          
+          36834321/88479446-db3f5580-cf6c-11ea-8b45-de87052c206f.png
