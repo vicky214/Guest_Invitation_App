@@ -13,5 +13,4 @@ To run this project you should follow this patterns:
           (b)npm run clientinstall
           (c)npm run dev
           
-         ![Screenshot (31)](https://user-images.githubusercontent.com/36834321/88481722-aafeb380-cf7a-11ea-8a58-3ea16749ead9.png)
-
+https://user-images.githubusercontent.com/36834321/88479446-db3f5580-cf6c-11ea-8b45-de87052c206f.png
