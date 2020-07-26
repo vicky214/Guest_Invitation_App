@@ -12,7 +12,13 @@ To run this project you should follow this patterns:
           (a)npm install
           (b)npm run clientinstall
           (c)npm run dev
-          
+          ![Screenshot (26)](https://user-images.githubusercontent.com/36834321/88482049-66741780-cf7c-11ea-9beb-d4c2caf846cd.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/36834321/88482051-6b38cb80-cf7c-11ea-8b6e-f776a264da11.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/36834321/88482053-6ecc5280-cf7c-11ea-9467-e6a306352091.png)
+
 <img src="https://user-images.githubusercontent.com/36834321/88479446-db3f5580-cf6c-11ea-8b45-de87052c206f.png">
-(https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
-https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png
+<img src="https://user-images.githubusercontent.com/36834321/88482049-66741780-cf7c-11ea-9beb-d4c2caf846cd.png">
+<img src="https://user-images.githubusercontent.com/36834321/88482051-6b38cb80-cf7c-11ea-8b6e-f776a264da11.png">
+<img src="https://user-images.githubusercontent.com/36834321/88482053-6ecc5280-cf7c-11ea-9467-e6a306352091.png">
+
+
