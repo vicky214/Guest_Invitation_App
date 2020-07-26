@@ -14,3 +14,5 @@ To run this project you should follow this patterns:
           (c)npm run dev
           
 https://user-images.githubusercontent.com/36834321/88479446-db3f5580-cf6c-11ea-8b45-de87052c206f.png
+(https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png
